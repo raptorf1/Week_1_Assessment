@@ -1,0 +1,20 @@
+## Question 1
+
+variable = "George"
+"" String
+
+variable = 2
+Number...Fixnum...Integer
+
+variable = 2.3
+Number...Float
+
+variable = [1,2,3,"George"]
+Array
+
+variable = { name: "George", account_number: 123456}
+String
+
+
+## Question 2
+
